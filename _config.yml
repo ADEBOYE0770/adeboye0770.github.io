@@ -11,9 +11,9 @@ title                    : "Olawale, N. Adeboye"
 title_separator          : "-"
 name                     : &name "Olawale, N. Adeboye"
 description              : &description "personal description"
-url                      : "https://olawaledsn.github.io"
+url                      : "https://adeboye0770.github.io"
 baseurl                  : ""
-repository               : "/OlawaleDSN/olawaledsn.github.io"
+repository               : "/ADEBOYE0770/adeboye0770.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
